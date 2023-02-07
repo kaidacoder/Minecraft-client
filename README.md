@@ -10,5 +10,6 @@
 ## How to contibute
 ### Join the discord server! https://discord.gg/gQcf4UvpfH
 ### Send a message in the minecraft-client channel and make a suggestion.
+![image](https://user-images.githubusercontent.com/109360020/217300656-64ca123d-1329-4bc8-a537-1a95b00fbb7d.png)
 
 
