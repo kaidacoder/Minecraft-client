@@ -1,6 +1,8 @@
 # K Client
 
 
+# First version coming soon
+
 ## how to set up the client
 ### 1.Download the official mod of of the official website (coming soon).
 ### 2.Put the mod into your mods folder.
